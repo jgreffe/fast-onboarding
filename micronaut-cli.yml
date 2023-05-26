@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.cloudbees.hr.onboarding
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, h2, http-client, jackson-databind, java, java-application, junit, maven, netty-server, openapi, readme, shade, slf4j-simple, swagger-ui, yaml]
